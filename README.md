@@ -2,7 +2,7 @@
 
 A deep learning model that classifies images of bears into three categories: **Grizzly**, **Black**, and **Teddy**. Using transfer learning with ResNet18.
 
-🚀 **[Live Demo →](https://yourname-bear-classifier.streamlit.app)**
+🚀 **[Live Demo →](https://bear-image-classifier-epypk7yzgma9kyeytiiok9.streamlit.app/)**
 
 ---
 
