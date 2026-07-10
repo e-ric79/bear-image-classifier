@@ -1,6 +1,13 @@
 # 🐻 Bear Image Classifier
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![fast.ai](https://img.shields.io/badge/fast.ai-Transfer%20Learning-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-ff4b4b)
 
-A deep learning model that classifies images of bears into three categories: **Grizzly**, **Black**, and **Teddy**. Using transfer learning with ResNet18.
+A deep learning model that classifies images of bears into three categories: **Grizzly**, **Black**, and **Teddy**. Using transfer learning with ResNet18. 
+
+Why ResNet18?
+ResNet18 was selected because it provides a good balance between inference speed and accuracy for a relatively small dataset. Its pretrained ImageNet weights also make it well suited for transfer learning.
 
 🚀 **[Live Demo →](https://bear-image-classifier-epypk7yzgma9kyeytiiok9.streamlit.app/)**
 
@@ -8,7 +15,7 @@ A deep learning model that classifies images of bears into three categories: **G
 
 ## 📌 Project Overview
 
-This project fine-tunes a pretrained ResNet18 model (PyTorch) using the fast.ai library to distinguish between three types of bears from images. The goal was to go from raw dataset to a deployed production app in a single week.
+This project fine-tunes a pretrained ResNet18 model (PyTorch) using the fast.ai library to distinguish between three types of bears from images. The goal was to go from raw dataset to a deployed interactive Streamlit application.
 
 **Key results:**
 
@@ -54,7 +61,7 @@ bear-image-classifier/
 
 ---
 
-## 🧠 What I Used
+## 🧠 Technology Stack
 
 | Tool         | Purpose                              |
 | ------------ | ------------------------------------ |
