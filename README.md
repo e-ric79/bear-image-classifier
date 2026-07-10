@@ -130,6 +130,6 @@ streamlit run app.py
 ## 👤 Author
 
 **Eric** — Computer Science student (AI/ML), Kenya 🇰🇪
-Documenting my ML learning journey publicly on LinkedIn → [Your LinkedIn URL]
+Documenting my ML learning journey publicly on LinkedIn → [https://www.linkedin.com/in/elkanah-makori/]
 
 ---
